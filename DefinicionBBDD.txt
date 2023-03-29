@@ -1,0 +1,17 @@
+Base de datos:
+  -Usuarios:
+	-nombre:
+	-contraseña:
+	-centro:
+	-ciudad:
+	-gmail:
+	-telefono:
+	-modalidad_curso:
+
+  -peticion:
+	-nombre_solicitante:
+	-num_miembros:
+	-list_miembros:[]
+	-modalidad_curso:
+	-nombre_generar_proyecto:
+	-descripcion_proyecto:
