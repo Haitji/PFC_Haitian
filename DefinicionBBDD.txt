@@ -2,7 +2,7 @@ Base de datos:
   -Usuarios:
 	-nombre:
 	-contraseña:
-	-centro:
+	-centro_educativo:
 	-ciudad:
 	-gmail:
 	-telefono:
