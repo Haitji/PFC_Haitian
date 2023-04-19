@@ -26,6 +26,7 @@ Base de datos:
 	-nombre_chat:
 	-visual: publico/privado
 	-id_proyecto: nombreautor+nombreproyecto+num
+	-imagen:
 
   -ramas:
 	-nombre: ejemplo: informatica, fisica, ingenieria...
