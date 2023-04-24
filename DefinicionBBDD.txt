@@ -27,6 +27,7 @@ Base de datos:
 	-visual: publico/privado
 	-id_proyecto: nombreautor+nombreproyecto+num
 	-imagen:
+	-requisitos:[]
 
   -ramas:
 	-nombre: ejemplo: informatica, fisica, ingenieria...
