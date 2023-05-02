@@ -1,0 +1,38 @@
+Base de datos:
+  -Usuarios:
+	-nombre:
+	-contraseña:
+	-centro_educativo:
+	-gmail:
+	-telefono:
+	-curso:
+	-notificaciones:
+	[{
+	  remitente:
+	  destinatario:
+	  mensaje:
+	  tipo:
+	}]
+	-proyectos:[]
+	-chats:[]
+
+  -proyectos:
+	-autor:
+	-num_miembros:
+	-list_miembros:[usuarios]
+	-modalidad_curso:
+	-nombre_proyecto:
+	-descripcion_proyecto:
+	-nombre_chat:
+	-visual: publico/privado
+	-id_proyecto: nombreautor+nombreproyecto+num
+	-imagen:
+	-requisitos:[]
+
+  -ramas:
+	-nombre: ejemplo: informatica, fisica, ingenieria...
+	-cursos:
+	[nombre: ejemplo: dam, daw ...]
+
+  -El chat lo hare con firebase una base de datos a tiempo real.
+  EL chat estara ligado al proyecto por lo que si eliminamos el proyecto el      chat se debe cerrar
